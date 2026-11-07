@@ -1,0 +1,420 @@
+[
+    {
+        "id": 1,
+        "cat": "printing",
+        "name": "A4 Black & White Printing",
+        "desc": "High quality A4 B\/W printing per page",
+        "price": 10,
+        "note": "Per page",
+        "img": "assets\/images\/products\/prod_1794063016_1_122.jpg",
+        "images": [
+            "assets\/images\/products\/prod_1794063016_1_122.jpg",
+            "assets\/images\/products\/prod_1794063016_2_998.jpg",
+            "assets\/images\/products\/prod_1794063016_3_254.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "cat": "printing",
+        "name": "A4 Color Printing",
+        "desc": "Vibrant A4 color printing",
+        "price": 20,
+        "note": "Per page",
+        "img": "assets\/images\/products\/prod_1794062983_1_748.jpg",
+        "images": [
+            "assets\/images\/products\/prod_1794062983_1_748.jpg",
+            "assets\/images\/products\/prod_1794062983_2_243.jpg",
+            "assets\/images\/products\/prod_1794062983_3_611.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "cat": "printing",
+        "name": "A3 Color Printing",
+        "desc": "Large A3 color prints",
+        "price": 40,
+        "note": "Per page",
+        "img": "assets\/images\/products\/prod_1794062913_1_189.jpg",
+        "images": [
+            "assets\/images\/products\/prod_1794062913_1_189.jpg",
+            "assets\/images\/products\/prod_1794062913_2_121.jpg",
+            "assets\/images\/products\/prod_1794062913_3_385.jpg"
+        ]
+    },
+    {
+        "id": 5,
+        "cat": "printing",
+        "name": "A4 B\/W Photocopy",
+        "desc": "Fast black & white photocopy",
+        "price": 6,
+        "note": "Per page",
+        "img": "assets\/images\/products\/prod_1794062890_1_443.jpg",
+        "images": [
+            "assets\/images\/products\/prod_1794062890_1_443.jpg",
+            "assets\/images\/products\/prod_1794062890_2_740.jpg",
+            "assets\/images\/products\/prod_1794062890_3_220.jpg"
+        ]
+    },
+    {
+        "id": 8,
+        "cat": "photo",
+        "name": "Passport Size Photos (9 pcs)",
+        "desc": "Official passport & ID photos",
+        "price": 100,
+        "note": "9 pieces",
+        "img": "assets\/images\/products\/prod_1794062865_1_802.jpg",
+        "images": [
+            "assets\/images\/products\/prod_1794062865_1_802.jpg",
+            "assets\/images\/products\/prod_1794062865_2_737.jpg",
+            "assets\/images\/products\/prod_1794062865_3_674.jpg"
+        ]
+    },
+    {
+        "id": 9,
+        "cat": "photo",
+        "name": "A4 Glossy Photo Print",
+        "desc": "Premium glossy photo print",
+        "price": 50,
+        "note": "Per print",
+        "img": "assets\/images\/products\/prod_1794062807_1_698.jpg",
+        "images": [
+            "assets\/images\/products\/prod_1794062807_1_698.jpg",
+            "assets\/images\/products\/prod_1794062807_2_426.jpg",
+            "assets\/images\/products\/prod_1794062807_3_202.jpg"
+        ]
+    },
+    {
+        "id": 11,
+        "cat": "photo",
+        "name": "4×6 Photos (10 pcs)",
+        "desc": "Standard photo prints pack",
+        "price": 150,
+        "note": "10 pieces",
+        "img": "assets\/images\/products\/prod_1794062752_1_965.jpg",
+        "images": [
+            "assets\/images\/products\/prod_1794062752_1_965.jpg",
+            "assets\/images\/products\/prod_1794062752_2_653.jpg",
+            "assets\/images\/products\/prod_1794062752_3_771.jpg"
+        ]
+    },
+    {
+        "id": 12,
+        "cat": "photo",
+        "name": "5×7 Photos (10 pcs)",
+        "desc": "Medium size photo prints",
+        "price": 200,
+        "note": "10 pieces",
+        "img": "assets\/images\/products\/prod_1794062698_1_603.jpg",
+        "images": [
+            "assets\/images\/products\/prod_1794062698_1_603.jpg",
+            "assets\/images\/products\/prod_1794062698_2_231.jpg",
+            "assets\/images\/products\/prod_1794062698_3_392.jpg"
+        ]
+    },
+    {
+        "id": 30,
+        "cat": "cards",
+        "name": "Visiting Cards (1000 pcs)",
+        "desc": "Premium matte\/glossy visiting cards",
+        "price": 1600,
+        "note": "1000 pieces",
+        "img": "assets\/images\/products\/prod_1794062630_1_137.jpg",
+        "images": [
+            "assets\/images\/products\/prod_1794062630_1_137.jpg",
+            "assets\/images\/products\/prod_1794062630_2_131.jpg",
+            "assets\/images\/products\/prod_1794062630_3_114.jpg"
+        ]
+    },
+    {
+        "id": 37,
+        "cat": "cards",
+        "name": "PVC Card \/ Student ID",
+        "desc": "Durable PVC student & staff ID cards",
+        "price": 150,
+        "note": "Per card",
+        "img": "assets\/images\/products\/prod_1794062535_1_455.jpg",
+        "images": [
+            "assets\/images\/products\/prod_1794062535_1_455.jpg",
+            "assets\/images\/products\/prod_1794062535_2_871.jpg",
+            "assets\/images\/products\/prod_1794062535_3_742.jpg"
+        ]
+    },
+    {
+        "id": 38,
+        "cat": "cards",
+        "name": "Customized Badge",
+        "desc": "Name badge \/ school badge",
+        "price": 99,
+        "note": "Per badge",
+        "img": "assets\/images\/products\/prod_1794062376_1_758.jpg",
+        "images": [
+            "assets\/images\/products\/prod_1794062376_1_758.jpg",
+            "assets\/images\/products\/prod_1794062376_2_231.jpg",
+            "assets\/images\/products\/prod_1794062376_3_414.jpg"
+        ]
+    },
+    {
+        "id": 35,
+        "cat": "cards",
+        "name": "Company File Folder",
+        "desc": "Custom printed file folders",
+        "price": 50,
+        "note": "Per folder",
+        "img": "assets\/images\/products\/prod_1794062354_1_483.jpg",
+        "images": [
+            "assets\/images\/products\/prod_1794062354_1_483.jpg",
+            "assets\/images\/products\/prod_1794062354_2_980.jpg",
+            "assets\/images\/products\/prod_1794062354_3_925.jpg"
+        ]
+    },
+    {
+        "id": 60,
+        "cat": "frames",
+        "name": "Royal Nikkah Frame",
+        "desc": "Elegant Nikkah Nama frame with calligraphy",
+        "price": null,
+        "note": "Design based",
+        "img": "assets\/images\/products\/prod_1794062325_1_557.jpg",
+        "images": [
+            "assets\/images\/products\/prod_1794062325_1_557.jpg",
+            "assets\/images\/products\/prod_1794062325_2_343.jpg",
+            "assets\/images\/products\/prod_1794062325_3_134.jpg"
+        ]
+    },
+    {
+        "id": 61,
+        "cat": "frames",
+        "name": "Floral Nikkah Frame",
+        "desc": "Beautiful floral design Nikkah frame",
+        "price": null,
+        "note": "Size based",
+        "img": "assets\/images\/products\/prod_1794041155_1_291.jpg",
+        "images": [
+            "assets\/images\/products\/prod_1794041155_1_291.jpg",
+            "assets\/images\/products\/prod_1794041155_2_966.jpg",
+            "assets\/images\/products\/prod_1794041155_3_676.jpg"
+        ]
+    },
+    {
+        "id": 62,
+        "cat": "frames",
+        "name": "Golden Islamic Nikkah Frame",
+        "desc": "Premium golden Islamic design frame",
+        "price": null,
+        "note": "Premium",
+        "img": "assets\/images\/products\/prod_1794062277_1_729.jpg",
+        "images": [
+            "assets\/images\/products\/prod_1794062277_1_729.jpg",
+            "assets\/images\/products\/prod_1794062277_2_611.jpg",
+            "assets\/images\/products\/prod_1794062277_3_760.jpg"
+        ]
+    },
+    {
+        "id": 63,
+        "cat": "frames",
+        "name": "Photo Frame 5×7",
+        "desc": "Classic photo frame",
+        "price": 350,
+        "note": "5×7 size",
+        "img": "assets\/images\/products\/prod_1794062414_1_749.jpg",
+        "images": [
+            "assets\/images\/products\/prod_1794062414_1_749.jpg",
+            "assets\/images\/products\/prod_1794062414_2_493.jpg",
+            "assets\/images\/products\/prod_1794062414_3_523.jpg"
+        ]
+    },
+    {
+        "id": 64,
+        "cat": "frames",
+        "name": "Photo Frame 8×12",
+        "desc": "Medium decorative frame",
+        "price": 500,
+        "note": "8×12 size",
+        "img": "assets\/images\/products\/prod_1794062194_1_819.jpg",
+        "images": [
+            "assets\/images\/products\/prod_1794062194_1_819.jpg",
+            "assets\/images\/products\/prod_1794062194_2_320.jpg",
+            "assets\/images\/products\/prod_1794062194_3_245.jpg"
+        ]
+    },
+    {
+        "id": 65,
+        "cat": "frames",
+        "name": "Photo Frame 12×16",
+        "desc": "Large wall frame",
+        "price": 1000,
+        "note": "12×16 size",
+        "img": "assets\/images\/products\/prod_1794062136_1_162.jpg",
+        "images": [
+            "assets\/images\/products\/prod_1794062136_1_162.jpg"
+        ]
+    },
+    {
+        "id": 20,
+        "cat": "gifts",
+        "name": "Customized Photo Mug",
+        "desc": "Personalized ceramic photo mug",
+        "price": null,
+        "note": "Design based",
+        "img": "assets\/images\/products\/prod_1794062113_1_163.jpg",
+        "images": [
+            "assets\/images\/products\/prod_1794062113_1_163.jpg",
+            "assets\/images\/products\/prod_1794062113_2_605.jpg",
+            "assets\/images\/products\/prod_1794062113_3_146.jpg"
+        ]
+    },
+    {
+        "id": 21,
+        "cat": "gifts",
+        "name": "Customized Cushion",
+        "desc": "Soft photo cushion \/ pillow",
+        "price": null,
+        "note": "Size based",
+        "img": "assets\/images\/products\/prod_1794062077_1_807.jpg",
+        "images": [
+            "assets\/images\/products\/prod_1794062077_1_807.jpg",
+            "assets\/images\/products\/prod_1794062077_2_563.jpg",
+            "assets\/images\/products\/prod_1794062077_3_406.jpg"
+        ]
+    },
+    {
+        "id": 22,
+        "cat": "gifts",
+        "name": "Customized T-Shirt",
+        "desc": "Printed unisex cotton T-shirt",
+        "price": null,
+        "note": "Size & qty",
+        "img": "assets\/images\/products\/prod_1794062047_1_898.jpg",
+        "images": [
+            "assets\/images\/products\/prod_1794062047_1_898.jpg",
+            "assets\/images\/products\/prod_1794062047_2_683.jpg",
+            "assets\/images\/products\/prod_1794062047_3_311.jpg"
+        ]
+    },
+    {
+        "id": 23,
+        "cat": "gifts",
+        "name": "Customized Keychain",
+        "desc": "Personalized keychain \/ keyring",
+        "price": null,
+        "note": "Design based",
+        "img": "assets\/images\/products\/prod_1794061993_1_788.jpg",
+        "images": [
+            "assets\/images\/products\/prod_1794061993_1_788.jpg",
+            "assets\/images\/products\/prod_1794061993_2_326.jpg",
+            "assets\/images\/products\/prod_1794061993_3_735.jpg"
+        ]
+    },
+    {
+        "id": 40,
+        "cat": "flex",
+        "name": "Flex \/ Panaflex Printing",
+        "desc": "Outdoor flex banner printing",
+        "price": null,
+        "note": "Per sq ft",
+        "img": "assets\/images\/products\/prod_1794061959_1_234.jpg",
+        "images": [
+            "assets\/images\/products\/prod_1794061959_1_234.jpg",
+            "assets\/images\/products\/prod_1794061959_2_372.jpg",
+            "assets\/images\/products\/prod_1794061959_3_797.jpg"
+        ]
+    },
+    {
+        "id": 41,
+        "cat": "flex",
+        "name": "Advertising Banner",
+        "desc": "Indoor \/ outdoor advertising banners",
+        "price": null,
+        "note": "Size based",
+        "img": "assets\/images\/products\/prod_1794061885_1_727.jpg",
+        "images": [
+            "assets\/images\/products\/prod_1794061885_1_727.jpg",
+            "assets\/images\/products\/prod_1794061885_2_239.jpg",
+            "assets\/images\/products\/prod_1794061885_3_120.jpg"
+        ]
+    },
+    {
+        "id": 42,
+        "cat": "flex",
+        "name": "Roll-up Standee",
+        "desc": "Portable roll-up banner stand",
+        "price": null,
+        "note": "Standard size",
+        "img": "assets\/images\/products\/prod_1794061790_1_299.jpg",
+        "images": [
+            "assets\/images\/products\/prod_1794061790_1_299.jpg",
+            "assets\/images\/products\/prod_1794061790_2_264.jpg",
+            "assets\/images\/products\/prod_1794061790_3_168.jpg"
+        ]
+    },
+    {
+        "id": 50,
+        "cat": "design",
+        "name": "Logo Designing",
+        "desc": "Professional logo design package",
+        "price": null,
+        "note": "Package based",
+        "img": "assets\/images\/products\/prod_1794061752_1_479.jpg",
+        "images": [
+            "assets\/images\/products\/prod_1794061752_1_479.jpg",
+            "assets\/images\/products\/prod_1794061752_2_628.jpg",
+            "assets\/images\/products\/prod_1794061752_3_664.jpg"
+        ]
+    },
+    {
+        "id": 51,
+        "cat": "design",
+        "name": "Poster & Flyer Design",
+        "desc": "Event and promotional posters",
+        "price": null,
+        "note": "Per design",
+        "img": "assets\/images\/products\/prod_1794061360_1_184.jpg",
+        "images": [
+            "assets\/images\/products\/prod_1794061360_1_184.jpg",
+            "assets\/images\/products\/prod_1794061360_2_100.jpg",
+            "assets\/images\/products\/prod_1794061360_3_185.jpg"
+        ]
+    },
+    {
+        "id": 52,
+        "cat": "design",
+        "name": "Social Media Post Design",
+        "desc": "Instagram, Facebook posts",
+        "price": null,
+        "note": "Per post",
+        "img": "assets\/images\/products\/prod_1794061221_1_108.jpg",
+        "images": [
+            "assets\/images\/products\/prod_1794061221_1_108.jpg",
+            "assets\/images\/products\/prod_1794061221_2_902.jpg",
+            "assets\/images\/products\/prod_1794061221_3_394.jpg"
+        ]
+    },
+    {
+        "id": 53,
+        "cat": "design",
+        "name": "CV \/ Resume Designing",
+        "desc": "Professional CV design",
+        "price": null,
+        "note": "Per CV",
+        "img": "assets\/images\/products\/prod_1794061187_1_779.jpg",
+        "images": [
+            "assets\/images\/products\/prod_1794061187_1_779.jpg",
+            "assets\/images\/products\/prod_1794061187_2_482.jpg",
+            "assets\/images\/products\/prod_1794061187_3_865.jpg"
+        ]
+    },
+    {
+        "id": 70,
+        "cat": "stamp",
+        "name": "Customized Stamp",
+        "desc": "Premium quality customized rubber stamp",
+        "price": 1000,
+        "note": "Premium quality",
+        "img": "assets\/images\/products\/prod_1794060291_1_308.jpg",
+        "images": [
+            "assets\/images\/products\/prod_1794060291_1_308.jpg",
+            "assets\/images\/products\/prod_1794060291_2_780.jpg",
+            "assets\/images\/products\/prod_1794060291_3_645.jpg"
+        ]
+    }
+]
